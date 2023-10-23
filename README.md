@@ -1,5 +1,7 @@
 ## Foundry
 
+### Project migration from Hardhat to Foundry is underway!!
+
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
 Foundry consists of:
